@@ -51,6 +51,9 @@
     border-radius: 4px;
     justify-content: space-evenly;
 }
+.nav-search:hover{
+    border: 0.2rem solid orange;
+}
 .select{
     border-top-left-radius:4px ;
     border-bottom-left-radius:4px;
@@ -88,4 +91,25 @@
     color: white;
     font: 14px;
     border: #0f1111;
+}
+/* BOX 4*/
+
+.Hello{
+    font-size: 0.8rem;
+}
+.List{
+    font-size: 1rem;
+    font-weight: 700;
+}
+.Listing{
+    background-color: #0f1111;
+    color: gray;
+}
+/*Box 6*/
+.nav-cart i{
+    font-size: 1.5rem;
+}
+.nav-cart{
+    font-size: 0.95rem;
+    font-weight: 700;
 }
