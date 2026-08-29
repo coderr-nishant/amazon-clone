@@ -113,3 +113,23 @@
     font-size: 0.95rem;
     font-weight: 700;
 }
+
+/* Panel */
+.panel{
+    height: 40px;
+    background-color: #222f3d;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: #f3f3f3;
+    font-size: 0.9rem;
+}
+.panel-op p{
+    display: inline;
+    margin-left: 15px;
+    
+}
+.panel-op{
+    width: 70%;
+    font-size: 0.8rem;
+}
