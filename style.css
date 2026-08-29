@@ -133,3 +133,24 @@
     width: 70%;
     font-size: 0.8rem;
 }
+/*hero-section*/
+
+.hero{
+    background-image: url("/Amazon\ Clone\ \(Resources\)/heropic.jpg");
+    background-size: cover;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items:flex-end;
+     ;
+}
+.hero-message{
+    background-color: #f3f3f3;
+    color: #0f1111;
+    width: 80%;
+    margin-bottom: 20px
+}
+.hero-message a{
+    text-decoration: none;
+    color: #007185;
+}
