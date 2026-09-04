@@ -154,3 +154,36 @@
     text-decoration: none;
     color: #007185;
 }
+
+/*Shop-section*/
+.box{
+    height: 400px;
+    width: 23%;
+    padding: 20px 0px 15px;
+    margin-top: 15px;
+    background-color: white;
+}
+.shop-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+    margin-bottom: 2px;
+}
+
+.box-image{
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 10px;
+    
+}
+.box-content{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.box-content a{
+    margin-top: 8px;
+    text-decoration: none;
+    color: #007185;
+}
